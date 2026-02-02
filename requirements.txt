@@ -1,6 +1,2 @@
-requests==2.31.0
-flask==3.0.0
-python-dotenv==1.0.0
-sqlite3
+PyQt5==5.15.10
 pyinstaller==6.0.0
-waitress==3.0.0
